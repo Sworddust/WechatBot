@@ -1,7 +1,7 @@
 chatGPTAccountPool:
-  - email: email
-    password: password
-    isGoogleLogin: false
+  - email: jianyuerou@gmail.com
+    password: Gudu520.
+    isGoogleLogin: True
 chatPrivateTiggerKeyword: ""
 chatTiggerRule: ""
 openAIProxy: ""
